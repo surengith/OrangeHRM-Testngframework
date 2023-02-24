@@ -9,4 +9,12 @@
 		</classes>
 	</test> <!-- Test -->
 	
+		<test name="TestFire">
+	<parameter name="browser" value="Firefox"></parameter>
+		<classes>
+			<class name="com.Runner.org.TestngRunner" />
+		</classes>
+	</test> <!-- Test -->
+	
+	
 </suite> <!-- Suite -->
